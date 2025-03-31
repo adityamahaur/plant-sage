@@ -1,0 +1,154 @@
+{
+    "Apple___Apple_scab": {
+        "cause": "Fungal infection caused by Venturia inaequalis in wet, cool conditions.",
+        "cure": "Apply fungicides early in the season and ensure proper pruning for airflow."
+    },
+    "Apple___Black_rot": {
+        "cause": "Caused by Botryosphaeria obtusa fungus infecting fruit and leaves.",
+        "cure": "Remove infected fruit and use appropriate fungicide treatments."
+    },
+    "Apple___Cedar_apple_rust": {
+        "cause": "Fungal disease caused by Gymnosporangium juniperi-virginianae.",
+        "cure": "Remove nearby juniper hosts and apply fungicides during early season."
+    },
+    "Apple___healthy": {
+        "cause": "No disease detected.",
+        "cure": "No cure required. Maintain regular care and monitoring."
+    },
+    "Blueberry___healthy": {
+        "cause": "No disease detected.",
+        "cure": "Continue with regular maintenance and inspections."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "cause": "Caused by Podosphaera clandestina in warm, dry environments.",
+        "cure": "Use sulfur-based fungicides and prune for air circulation."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "cause": "No disease detected.",
+        "cure": "No cure needed. Keep monitoring the plant health."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "cause": "Caused by Cercospora zeae-maydis fungus under high humidity.",
+        "cure": "Use resistant hybrids and apply fungicides during early growth."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "cause": "Caused by Puccinia sorghi fungus spread by wind.",
+        "cure": "Apply fungicides and use resistant varieties."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "cause": "Fungal disease caused by Exserohilum turcicum.",
+        "cure": "Use resistant hybrids and apply fungicides preventively."
+    },
+    "Corn_(maize)___healthy": {
+        "cause": "No disease symptoms present.",
+        "cure": "No action needed. Maintain optimal growing conditions."
+    },
+    "Grape___Black_rot": {
+        "cause": "Caused by the fungus Guignardia bidwellii.",
+        "cure": "Prune infected vines and apply fungicides regularly."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "cause": "Complex disease often involving multiple fungal pathogens.",
+        "cure": "Remove infected vines and avoid excessive wounding."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "cause": "Caused by the fungus Pseudocercospora vitis.",
+        "cure": "Remove affected leaves and apply fungicides during early symptoms."
+    },
+    "Grape___healthy": {
+        "cause": "No visible disease.",
+        "cure": "Maintain proper pruning and pest control."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "cause": "Bacterial disease spread by psyllid insects.",
+        "cure": "Remove infected trees and control psyllid population."
+    },
+    "Peach___Bacterial_spot": {
+        "cause": "Caused by Xanthomonas campestris pv. pruni bacteria.",
+        "cure": "Use copper-based sprays and disease-free rootstocks."
+    },
+    "Peach___healthy": {
+        "cause": "Plant is healthy with no symptoms.",
+        "cure": "Keep monitoring and ensure proper nutrition."
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "cause": "Caused by Xanthomonas campestris in warm, wet climates.",
+        "cure": "Use resistant varieties and copper-based bactericides."
+    },
+    "Pepper,_bell___healthy": {
+        "cause": "No visible infection or disease.",
+        "cure": "No cure required. Continue regular care."
+    },
+    "Potato___Early_blight": {
+        "cause": "Fungal disease caused by Alternaria solani.",
+        "cure": "Apply fungicides and practice crop rotation."
+    },
+    "Potato___Late_blight": {
+        "cause": "Caused by Phytophthora infestans under cool, moist conditions.",
+        "cure": "Use resistant varieties and fungicide sprays."
+    },
+    "Potato___healthy": {
+        "cause": "No disease symptoms detected.",
+        "cure": "Maintain standard care practices."
+    },
+    "Raspberry___healthy": {
+        "cause": "No disease found.",
+        "cure": "Continue regular irrigation and pest control."
+    },
+    "Soybean___healthy": {
+        "cause": "Healthy soybean plant with no issues.",
+        "cure": "Ensure regular check-ups and soil nutrition."
+    },
+    "Squash___Powdery_mildew": {
+        "cause": "Fungal infection by Podosphaera xanthii.",
+        "cure": "Apply neem oil or sulfur-based sprays."
+    },
+    "Strawberry___Leaf_scorch": {
+        "cause": "Caused by Diplocarpon earlianum fungus.",
+        "cure": "Remove infected leaves and use resistant varieties."
+    },
+    "Strawberry___healthy": {
+        "cause": "No visible symptoms of disease.",
+        "cure": "Routine care and good air circulation."
+    },
+    "Tomato___Bacterial_spot": {
+        "cause": "Caused by Xanthomonas spp. in humid environments.",
+        "cure": "Use copper-based sprays and certified seeds."
+    },
+    "Tomato___Early_blight": {
+        "cause": "Fungal disease caused by Alternaria solani.",
+        "cure": "Prune affected areas and apply fungicides."
+    },
+    "Tomato___Late_blight": {
+        "cause": "Caused by Phytophthora infestans under wet conditions.",
+        "cure": "Apply protective fungicides and remove infected plants."
+    },
+    "Tomato___Leaf_Mold": {
+        "cause": "Fungal disease by Passalora fulva.",
+        "cure": "Improve air circulation and apply fungicides."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "cause": "Caused by Septoria lycopersici fungus.",
+        "cure": "Remove infected leaves and use fungicide sprays."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "cause": "Infestation by spider mites due to hot and dry weather.",
+        "cure": "Use miticides or insecticidal soap."
+    },
+    "Tomato___Target_Spot": {
+        "cause": "Fungal disease by Corynespora cassiicola.",
+        "cure": "Apply fungicides and rotate crops."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "cause": "Viral disease spread by whiteflies.",
+        "cure": "Use resistant varieties and control whiteflies."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "cause": "Highly contagious virus spread by handling.",
+        "cure": "Remove infected plants and disinfect tools."
+    },
+    "Tomato___healthy": {
+        "cause": "No disease present.",
+        "cure": "Maintain good watering and fertilization schedule."
+    }
+}
