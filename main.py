@@ -46,8 +46,8 @@ if(app_mode=="Home"):
 elif(app_mode=="About"):
     st.header("About")
     st.markdown("""
-                #### The Team
-                ## Group Number: 263
+                ### The Team
+                #### Group Number: 263
                 Aditya Mahaur (21BCE11653) \n
                 Anushka Gupta (21BCE11309)\n
                 Naman Roy (21BCE11639)\n
@@ -58,8 +58,7 @@ elif(app_mode=="About"):
                 A new directory containing 33 test images is created later for prediction purpose.
                 #### Content
                 1. train (70295 images)
-                2. test (33 images)
-                3. validation (17572 images)
+                2. validation (17572 images)
 
                 """)
 
